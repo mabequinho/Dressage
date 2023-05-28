@@ -7,6 +7,7 @@ Computer dressage for (toxic)productivity.
 # Tools
 * [*NextDNS*](https://nextdns.io/)
 * [*Timekpr-nExT*](https://mjasnik.gitlab.io/timekpr-next/)
+* Gnome parental controls(optional)
 
 # How-To
 * Disable USB boot, use a random password to protect your firmware settings.
@@ -15,5 +16,6 @@ Computer dressage for (toxic)productivity.
 
 # How it works
 * You are the rider, the horses are your genes.
+* Lock yourself before yourself get you locked.
 
 ![](https://raw.githubusercontent.com/mabequinho/Dressage/main/pic/dressage.webp)
